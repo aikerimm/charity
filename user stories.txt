@@ -1,0 +1,5 @@
+As a volunteer, I want to register, so that I can access volunteering features.
+As a requestor, I want to register, so that I can access help features.
+As a requestor, I want to create help request, so that I can get help.
+As a requestor, I want to leave feedback for a volunteer on work they have done on my request, so that other requestors know the reliability of the volunteer.
+As a manager, I want to validate requestors, so that the volunteering system is not abused.
