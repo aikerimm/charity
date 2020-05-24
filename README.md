@@ -1,4 +1,4 @@
-# volunteer
+# volunteering
 Architecture: 
 ![architecture diagram](https://github.com/aikerimm/volunteer/blob/master/diagrams/volunteer_24052020.PNG)
 
